@@ -4,9 +4,9 @@
 Assignment 01: Version Control (a.k.a assignment02)
 
 -This is Assignment 01: Version Control, but the requirements were to
-  "Create the package cse360assignment02"
+  -"Create the package cse360assignment02"
     and
-  "Add a  file AddingMachine.java to this package."
+  -"Add a  file AddingMachine.java to this package."
 
     Assignment Instructions:
 
