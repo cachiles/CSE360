@@ -32,4 +32,4 @@ Assignment 01: Version Control (a.k.a assignment02)
         (or bitbucket)
 
   Submit your java file (AddingMachine.java) on Canvas.
-*/
+
