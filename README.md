@@ -1,4 +1,4 @@
-# CSE360
+# CSE360 Assignment01_VersionControl
  Introduction to Software Engineering
 
 Assignment 01: Version Control (a.k.a assignment02)
