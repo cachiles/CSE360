@@ -8,7 +8,7 @@ package cse360assignment02;
 */
 
 // Assignment Instructions can be found in the README @ github.
-// github repository URL: "https://github.com/cachiles/CSE360"
+// github repository URL: "https://github.com/cachiles/CSE360_Assignment01"
 
 public class AddingMachine 
 {
